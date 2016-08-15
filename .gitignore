@@ -1,0 +1,4 @@
+*.py
+*.pyc
+Makefile
+develop_server.sh
